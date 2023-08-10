@@ -1,12 +1,12 @@
 ---
-description: This website helps you configuring and creating custom items for my plugin
+description: Этот сайт поможет вам настроить и создать пользовательские элементы для моего плагина
 ---
 
-# 👋 Welcome
+# 👋 Добро пожаловать
 
-Some of this website pages may contain affiliate links, meaning I get a commission if you decide to make a purchase (at no cost to you).
+Некоторые страницы этого сайта могут содержать партнерские ссылки, то есть я получаю комиссионные, если вы решите совершить покупку (без каких-либо затрат с вашей стороны).
 
-### 💠Quick Links
+### 💠Быстрые ссылки
 
 {% content-ref url="other/tos.md" %}
 [tos.md](other/tos.md)
@@ -20,7 +20,7 @@ Some of this website pages may contain affiliate links, meaning I get a commissi
 [adding-content](plugin-usage/adding-content/)
 {% endcontent-ref %}
 
-### 🌐Social Media
+### 🌐Социальные сети
 
 * [Patreon](http://patreon.com/lonedev)
 * [Ko-fi](http://a.devs.beer/kofi)
@@ -30,18 +30,18 @@ Some of this website pages may contain affiliate links, meaning I get a commissi
 * [Steam Developer Page](https://store.steampowered.com/developer/LoneDev/)
 * [Discord](https://discord.gg/4dfnpUK)
 
-## Purchase
+## Покупка
 
 {% hint style="warning" %}
-Buy the plugin only from official shops, if you bought it elsewhere you was scammed, ask for a refund.
+Покупайте плагин только в официальных магазинах, если вы купили его в другом месте, вас обманули, попросите вернуть деньги.
 {% endhint %}
 
-### With PayPal
+### С помощью PayPal
 
 * [SpigotMC](https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
 * [Builtbybit (Mc-market)](https://builtbybit.com/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.10839/)
 
-### Without PayPal
+### Без PayPal
 
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
